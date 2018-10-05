@@ -54,6 +54,7 @@ RUN apt-get ${APT_FLAGS_COMMON} update && \
             traceroute \
             fping \
             libcurl4 \
+			curl \
             libevent-2.1 \
             libiksemel3 \
             libmysqlclient20 \
